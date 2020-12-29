@@ -1,0 +1,3 @@
+[submodule "site/themes/simplicity"]
+	path = site/themes/simplicity
+	url = https://github.com/eshlox/simplicity.git

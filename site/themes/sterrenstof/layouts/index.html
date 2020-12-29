@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <article>
+    <section>
+      {{ $logo := resources.Get "/src/images/logo.png" }}
+      <img
+      class="homepage-avatar"
+      src="{{ $logo.RelPermalink }}"
+      >
+      {{ .Content }}
+    </section>
+  </article>
+{{ end }}
