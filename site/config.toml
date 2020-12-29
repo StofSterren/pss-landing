@@ -1,10 +1,10 @@
 baseURL = "https://project-sterrenstof.nl/"
 languageCode = "nl-nl"
-title = "Project Sterrenstof"
+title = "Project SterrenStof"
 theme = "sterrenstof"
 [author]
   gravatarEmail = "cmdr@supakeen.com"
-  homepageText = "Project Sterrenstof"
+  homepageText = "Project SterrenStof"
   name = "Przemysław `eshlox` Kołodziejczyk"
   rss = "/posts/index.xml"
 [imaging]
