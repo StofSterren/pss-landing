@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Updates van week 53, 2020"
+categories: inkopen
+tags: inkopen updates
 ---
 
 Deze week was de start van Project Sterrenstof en dat betekent een hoop
