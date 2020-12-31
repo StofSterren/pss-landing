@@ -1,9 +1,6 @@
 ---
-title: Updates van week 53, 2020
-date: 2020-12-31T00:00:00+01:00
-categories: [updates]
-tags: [updates, aankopen]
-language: nl
+layout: post
+title: "Updates van week 53, 2020"
 ---
 
 Deze week was de start van Project Sterrenstof en dat betekent een hoop
