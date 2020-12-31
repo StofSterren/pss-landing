@@ -2,9 +2,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
   // LazdyLoad
   const myLazyLoad = new LazyLoad()
 
-  // Lightbox
-  baguetteBox.run('main', {})
-
   // Hide header
   const navbar = document.querySelector('nav')
   if (navbar) {

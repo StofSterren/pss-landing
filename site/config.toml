@@ -18,11 +18,9 @@ theme = "sterrenstof"
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
 [params]
-  adsenseClient = ''
-  adsenseSlot = ''
   description = "A blog about everything."
   licence = "[Some Rights Reserved](http://creativecommons.org/licenses/by-sa/4.0/)."
-  displayPostLanguage = true
+  displayPostLanguage = false
 [permalinks]
   posts = "/weblog/:year/:month/:day/:slug/"
 [pygmentsOptions]

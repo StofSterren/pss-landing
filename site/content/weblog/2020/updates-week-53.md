@@ -4,7 +4,6 @@ date: 2020-12-31T00:00:00+01:00
 categories: [updates]
 tags: [updates, aankopen]
 language: nl
-slug: updates-week-53
 ---
 
 Deze week was de start van Project Sterrenstof en dat betekent een hoop

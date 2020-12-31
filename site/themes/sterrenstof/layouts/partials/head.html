@@ -10,8 +10,7 @@
   <!-- CSS -->
   {{ $normalize := resources.Get "/src/styles/_external/normalize.css" }}
   {{ $milligram := resources.Get "/src/styles/_external/milligram.css" }}
-  {{ $baguetteBox := resources.Get "/src/styles/_external/baguetteBox.css" }}
-  {{ $external := slice $normalize $milligram $baguetteBox | resources.Concat "assets/css/external.css" | resources.Minify }}
+  {{ $external := slice $normalize $milligram | resources.Concat "assets/css/external.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $external.RelPermalink }}" media="screen">
 
   {{ $options := (dict "targetPath" "assets/css/styles.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "assets/node_modules")) }}
