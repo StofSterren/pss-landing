@@ -5,8 +5,8 @@ theme = "sterrenstof"
 [author]
   gravatarEmail = "cmdr@supakeen.com"
   homepageText = "Project SterrenStof"
-  name = "Przemysław `eshlox` Kołodziejczyk"
-  rss = "/posts/index.xml"
+  name = "supakeen"
+  rss = "/weblog/index.xml"
 [imaging]
   anchor = "smart"
   resampleFilter = "box"
