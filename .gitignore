@@ -1,1 +1,2 @@
-site/public
+site/_site
+site/.sass-cache
